@@ -231,9 +231,13 @@
 **Ключевые слова:** data analyst, аналитик данных
 
 **Ссылка на тетрадку:**
+
 [Е-com](https://github.com/polina-bogdanova/Portfolio/blob/main/13.1.%20E-commerce.ipynb)
+
 [AB-test](https://github.com/polina-bogdanova/Portfolio/blob/main/13.2.%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.ipynb)
+
 [SQL](https://github.com/polina-bogdanova/Portfolio/blob/main/13.3.%20SQL.ipynb)
+
 **Вывод:**
 В ходе работы мы исследовали профили потребителей интернет-магазина товаров для дома.
 -	Определен период исследования: с 1 октября 2018 года и до 31 января 2020 года.
